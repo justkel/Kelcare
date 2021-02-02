@@ -144,7 +144,7 @@ p {
   }
   .group-img {
     position: static;
-
+    width: 55%;
   }
 }
 
